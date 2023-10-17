@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Said</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
+<img align="right" alt="coding" width="600" height="400" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diasbouk&label=Profile%20views&color=0e75b6&style=flat" alt="diasbouk" /> </p>
 
