@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Said</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fa75y0sbwpl181.gif%3Fwidth%3D1024%26auto%3Dwebp%26s%3D06a2af2a9af187b2c4b3c729d8f6292b8b3ffcb7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diasbouk&label=Profile%20views&color=0e75b6&style=flat" alt="diasbouk" /> </p>
 
